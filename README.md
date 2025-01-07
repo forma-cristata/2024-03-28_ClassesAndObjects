@@ -1,6 +1,6 @@
 # Simple Python Class Examples
 
-This is a collection of Python examples showing how to work with classes and objects. includes:
+This is a collection of Python examples showing how to work with classes and objects. Includes:
 
 - A Dog class that can sit and roll over
 - A Car class that tracks mileage
